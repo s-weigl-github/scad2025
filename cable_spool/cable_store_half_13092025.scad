@@ -14,4 +14,6 @@ difference() {
     cylinder(d=80,h=15);
     cylinder(d=55,h=15);
   }
+translate([0,0,10])
+cylinder(d=80,h=10);
 }
