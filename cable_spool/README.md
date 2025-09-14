@@ -83,7 +83,7 @@ For support, email fake@fake.com or join our Slack channel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](cable_store_13092025.png)
 
 
 ## Run Locally
