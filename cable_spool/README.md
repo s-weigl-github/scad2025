@@ -30,9 +30,10 @@ A brief description of what this project does and who it's for
 [^1]: does not work
 
 ## Screenshots
+<!-- screenshots created with openscad -->
 
 ![App Screenshot](cable_store_13092025.png)
-
+![App Screenshot](cable_store_half_13092025.png)
 
 ## Optimizations
 
@@ -76,7 +77,7 @@ Might finish off items out of order since I usually work on multiple at a time.
 - [ ] Add gpu temp and usage. (If feasible)
 - [x] Add io stats for disks.
 - [ ] Add cpu and mem stats for docker containers. (If feasible)
-- [x] Change process list to line scroll instead of page change.
+- [x] /[Optional]Change process list to line scroll instead of page change.
 - [ ] Add optional window for tailing log files.
 * [ ] Add options for resizing all boxes.
 - [ ] Add command line argument parsing.
