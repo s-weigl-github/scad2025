@@ -29,3 +29,4 @@ Might finish off items out of order since I usually work on multiple at a time.
 
 - [ ] put a radius on all the corners
 - [ ] make it parametric
+- [ ] \[Optional] add something, so the cable doesn't unspool itself
