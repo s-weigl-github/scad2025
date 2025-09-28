@@ -15,6 +15,7 @@ desk organizer to caombat the clutter on my desk
 <!-- screenshots created with openscad -->
 
 ![App Screenshot](organizer_28092025.png)
+![App Screenshot](organizer_inlay1_28092025.png)
 
 ## Authors
 

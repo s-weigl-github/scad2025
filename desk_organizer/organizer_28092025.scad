@@ -1,4 +1,4 @@
-// 
+// outer shell
 // 28.09.2025 Sebastian Weigl
  
 // set the fregment sizes
