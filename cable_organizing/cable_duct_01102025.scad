@@ -5,7 +5,7 @@ $fn=120;
 
 difference(){
 
-translate([25,12,0])
+translate([25,15,0])
 cylinder(d=50,h=170);
 
 translate([25,0,0])
