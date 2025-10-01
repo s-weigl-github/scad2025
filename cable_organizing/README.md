@@ -18,6 +18,7 @@ very simple cable spool, mostly to learn openscad
 
 ![App Screenshot](cable_store_13092025.png)
 ![App Screenshot](cable_store_half_13092025.png)
+![App Screenshot](cable_duct_01102025.png)
 
 ## Authors
 
