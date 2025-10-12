@@ -17,7 +17,7 @@ sec_box_depth=22.5;
 sec_box_height=30;
 
 thi_box_width=11.5;
-thi_box_depth=1;
+thi_box_depth=1.2;
 thi_box_height=10;
 
 // object
