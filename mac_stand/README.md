@@ -2,11 +2,11 @@
 
 # other stuff
 
-other stuff i found and had to try
+very simple stand for my new mac mini m4
 
 ## notations
 > [!NOTE]
-> ---
+> untested as of 06.11.2025
 
 > [!TIP]
 > ---
@@ -14,8 +14,8 @@ other stuff i found and had to try
 ## Screenshots
 <!-- screenshots created with openscad -->
 
-![App Screenshot](maker_coin_19102025.png)
-# ![App Screenshot](organizer_inlay1_28092025.png)
+# ![App Screenshot](maker_coin_19102025.png)
+![App Screenshot](mac_mini_stand_v01_06112025.png)
 
 ## Authors
 
@@ -25,6 +25,7 @@ other stuff i found and had to try
 
 Might finish off items out of order since I usually work on multiple at a time.
 
-- [ ] put a radius on all the corners
+- [ ] test the fit
 - [ ] make it parametric
-- [ ] \[Optional] add something, so the cable doesn't unspool itself
+- [ ] \[Optional] add some kind of filter to the bottom
+- [ ] \[Optional] separate cold and hot side from each other
