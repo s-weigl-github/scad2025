@@ -15,11 +15,13 @@ very simple stand for my new mac mini m4
 <!-- screenshots created with openscad -->
 
 # ![App Screenshot](maker_coin_19102025.png)
-![App Screenshot](mac_mini_stand_v01_06112025.png)
+![App Screenshot](mac_mini_stand_v02_06112025.png)
 
 ## Authors
 
 - [@s-weigl-github](https://github.com/s-weigl-github)
+> roundedcube.scad script from
+- [@groovenectar](https://github.com/groovenectar/)
 
 ## TODO
 
