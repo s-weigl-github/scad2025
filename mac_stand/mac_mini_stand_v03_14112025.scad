@@ -23,7 +23,10 @@ rotate([0,90,0])
 rr(25,130,5,140);
 // io cutout
 translate([0,20,127])
-#cube([10,75,15],false);
+cube([10,75,15],false);
+// material reduction and airflow
+translate([67.5,67.5,124])
+#cylinder(5,r=40,true);
 //
 // empty stage
 translate([border,border,99])
