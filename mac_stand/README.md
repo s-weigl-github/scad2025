@@ -13,7 +13,8 @@ very simple stand for my new mac mini m4
 
 ## Screenshots
 <!-- screenshots created with openscad -->
-
+![App Screenshot](mac_mini_stand_v03_front_14112025.png)
+![App Screenshot](mac_mini_stand_v03_back_14112025.png)
 ![App Screenshot](mac_mini_stand_v02_06112025.png)
 ![App Screenshot](monitor_stand_v01_11112025.png)
 
