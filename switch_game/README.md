@@ -1,22 +1,17 @@
 # other stuff
 
-# other stuff
-
-very simple stand for my new mac mini m4
+a stand for my nintendo switch games
 
 ## notations
 > [!NOTE]
-> untested as of 06.11.2025
+> untested as of 08.04.2026
 
 > [!TIP]
 > ---
 
 ## Screenshots
 <!-- screenshots created with openscad -->
-![App Screenshot](mac_mini_stand_v03_front_14112025.png)
-![App Screenshot](mac_mini_stand_v03_back_14112025.png)
-![App Screenshot](mac_mini_stand_v02_06112025.png)
-![App Screenshot](monitor_stand_v01_11112025.png)
+![App Screenshot](game_stand_v1.png)
 
 
 ## Authors
