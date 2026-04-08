@@ -12,6 +12,7 @@ a stand for my nintendo switch games
 ## Screenshots
 <!-- screenshots created with openscad -->
 ![App Screenshot](game_stand_v1.png)
+![App Screenshot](game_stand_v2.png)
 
 
 ## Authors
