@@ -1,4 +1,6 @@
 // test with hull
+// 16.05.2026 Sebastian Weigl
+$fn = 96;
 difference() {
 // main body
   hull() {
