@@ -4,7 +4,7 @@ a stand for a phone
 
 ## notations
 > [!NOTE]
-> untested as of 15.05.2026
+> printed on 15.05.2026 print went fine!
 
 > [!TIP]
 > ---
