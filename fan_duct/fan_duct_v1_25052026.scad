@@ -13,13 +13,13 @@ include <rounded_rect.scad>
 difference(){
 hull(){
   translate([0,0,0])
-  rr(85.5,85.5,4,15);
+  rr(85.5,85.5,5,15);
   translate([25,25,50])
   cylinder(h=1,d=50,center=false);}
 
 hull(){
   translate([2.5,2.5,0])
-  #rr(80.5,80.5,4,15);
+  #rr(80.5,80.5,5,15);
   translate([25,25,50])
   cylinder(h=1,d=47.5,center=false);}
  }
