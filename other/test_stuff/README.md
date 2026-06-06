@@ -11,7 +11,7 @@
 
 ## Screenshots
 <!-- screenshots created with openscad -->
-![App Screenshot](hull_test.png)
+![App Screenshot](hull_test.png "obj with hull test")
 *obj with hull test*
 ![App Screenshot](undiff_test.png)
 ![App Screenshot](test_obj_1_31052026.png)
