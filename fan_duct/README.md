@@ -25,6 +25,7 @@ fan duct
 
 Might finish off items out of order since I usually work on multiple at a time.
 
+- [ ] put 3mf into git ignore
 - [ ] test the fit
 - [ ] make it parametric
 - [ ] \[Optional] add some kind of filter to the bottom
