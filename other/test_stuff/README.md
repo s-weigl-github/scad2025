@@ -1,12 +1,4 @@
-# test stuff
-
-
-## notations
-> [!NOTE]
-> untested as of 06.11.2025
-
-> [!TIP]
-> ---
+# OpenSCAD test obj
 
 
 ## Screenshots
@@ -14,8 +6,14 @@
 ![App Screenshot](hull_test.png "obj with hull test")
 *obj with hull test*
 ![App Screenshot](undiff_test.png)
+*test with union and difference
 ![App Screenshot](test_obj_1_31052026.png)
+*test with diferent obj and hull
 ![App Screenshot](dichtung.png)
+*simple obj
+![App Screenshot](module_test.png)
+*simple obj test with module and scale
+
 
 ## Authors
 
@@ -23,10 +21,3 @@
 > roundedcube.scad script from
 - [@groovenectar](https://github.com/groovenectar/)
 
-
-## TODO
-
-Might finish off items out of order since I usually work on multiple at a time.
-
-- [ ] test the fit
-- [ ] \[Optional] separate cold and hot side from each other
