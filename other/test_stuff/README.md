@@ -13,7 +13,10 @@
 *simple obj -- dichtung
 ![App Screenshot](module_test.png)
 *simple obj test with module and scale -- module_test
-
+![App Screenshot](2_parts_20062026_p1.png)
+*2 simple obj -- obj 1
+![App Screenshot](2_parts_20062026_p2.png)
+*2 simple obj -- obj 2
 
 ## Authors
 
