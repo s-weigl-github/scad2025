@@ -28,7 +28,7 @@ difference() {
   translate([50,50,0])
   cylinder(h=obj_heigth,r=25,center=false);
   translate([0,50,0])
-  #cube([100,50,obj_heigth]);}
+  cube([100,50,obj_heigth]);}
   
 // third body
 translate([150,0,0])
@@ -41,7 +41,7 @@ difference() {
   translate([50,50,0])
   cylinder(h=obj_heigth,r=25,center=false);
   translate([0,0,0])
-  #cube([100,50,obj_heigth]);}
+  cube([100,50,obj_heigth]);}
   
 // forth body
 translate([225,0,0])
@@ -54,4 +54,4 @@ difference() {
   translate([50,50,0])
   cylinder(h=obj_heigth,r=25,center=false);
   translate([0,50,0])
-  #cube([100,50,obj_heigth]);}
+  cube([100,50,obj_heigth]);}
