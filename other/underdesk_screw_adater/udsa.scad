@@ -1,5 +1,5 @@
 // 19" underdesk screw adapter
-// version 1
+// version 2
 // 26.07.2026 Sebastian Weigl
 
 $fn=64;
@@ -25,5 +25,5 @@ difference(){
     cylinder(h=2,d=19,center=true);
   }
 translate([12.5,0,0])
-#cylinder(h=10,d=4,center=true);
+#cylinder(h=10,d=4.3,center=true);
 }
