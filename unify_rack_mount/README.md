@@ -14,10 +14,13 @@ rack mount for unify flex
 <!-- screenshots created with openscad -->
 
 ![App Screenshot](clip_test.png)
+![App Screenshot](rack_front.png)
 
 ## Authors
 
 - [@s-weigl-github](https://github.com/s-weigl-github)
+> roundedcube.scad script from
+- [@groovenectar](https://github.com/groovenectar/)
 
 ## TODO
 
