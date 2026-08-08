@@ -13,7 +13,7 @@ rack mount for unify flex
 ## Screenshots
 <!-- screenshots created with openscad -->
 
-![App Screenshot](clip.png)
+![App Screenshot](clip_test.png)
 
 ## Authors
 
