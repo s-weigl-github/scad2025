@@ -1,0 +1,29 @@
+---
+CreatedOn: 08.08.2026
+NetDescription: unify rack mount in openscad
+---
+# unify rack mount
+
+rack mount for unify flex
+
+## Notation
+>[!NOTE]
+> with clip module in openscad to hold the components
+
+## Screenshots
+<!-- screenshots created with openscad -->
+
+![App Screenshot](clip.png)
+
+## Authors
+
+- [@s-weigl-github](https://github.com/s-weigl-github)
+
+## TODO
+
+- [ ] 1
+- [ ] 2
+  - [ ] 2.1
+- [ ] \[Optional] 3
+- [ ] \[bla] 4
+- [x] \[DONE] 5
