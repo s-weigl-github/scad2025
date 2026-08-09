@@ -1,4 +1,5 @@
 // dry stick
+// version 02
 // 09.08.2026 Sebastain Weigl
 
 $fn=128;
@@ -28,6 +29,16 @@ translate([0,0,10]) #cylinder(h=90,d1=28.5,d2=22.5,center=false);
 for(i=[1:1:ridge_num]){
   rotate([0,0,i*360/ridge_num])
   translate([-1.25,8,10])
-  #cube([2.5,8,100]);
+  #cube([2.5,8,40]);
+  }
+for(i=[1:1:ridge_num]){
+  rotate([0,0,i*360/ridge_num])
+  translate([-1.25,8,60])
+  #cube([2.5,8,20]);
+  }
+for(i=[1:1:ridge_num]){
+  rotate([0,0,i*360/ridge_num])
+  translate([-1.25,8,90])
+  #cube([2.5,8,25]);
   }
 }
