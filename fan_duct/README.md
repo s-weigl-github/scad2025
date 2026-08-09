@@ -14,6 +14,7 @@ fan duct
 ![App Screenshot](fan_duct_v1_25052026.png)
 ![App Screenshot](fan_duct_v2_25052026.png)
 ![App Screenshot](fan_duct_para.png)
+![App Screenshot](big_fan.png)
 
 
 ## Authors
