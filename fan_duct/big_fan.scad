@@ -1,6 +1,6 @@
 // big fan duct
 // parametric 
-// version 2
+// version 3
 // 09.08.2026 Sebastian Weigl
 
 // rr(x_length,y_length,radius,height);
@@ -26,9 +26,9 @@ union(){
   translate([border+(fan_size/2),border+(fan_size/2),fan_depth+border])
   cylinder(h=fan_depth+duct_height,d1=blade_area_bottom+border,d2=blade_area_top+border,center=false);
   }
-  translate([0,120.2/2+2.5,0]) cylinder(h=120,d=85,center=0);
+  translate([0,120.2/2+2.5,100]) cylinder(h=20,d=85,center=0);
   }
-  translate([-45,0,0]) cube([45,120,120],center=0);
+  translate([-45,0,100]) #cube([45,120,20],center=0);
   // inner body
   translate([border,border,0])
   rr(fan_size,fan_size,rad,fan_depth);
