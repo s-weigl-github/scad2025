@@ -15,3 +15,12 @@ to be filled with silica gel desiccant
 ## Authors
 
 - [@s-weigl-github](https://github.com/s-weigl-github)
+
+## TODO
+
+- [ ] screwable endcap
+- [ ] 2
+  - [ ] 2.1
+- [ ] \[Optional] 3
+- [ ] \[bla] 4
+- [x] \[DONE] 5
