@@ -1,7 +1,9 @@
 // parsley vase
-// version 01
+// version 02
 // Sebastian Weigl
 // 28.09.2026
+
+$fn=128;
 
 union(){
 difference(){
