@@ -1,37 +1,37 @@
 // parsley vase
-// version 02
+// version 04
 // Sebastian Weigl
 // 28.09.2026
 
-$fn=128;
+$fn=256;
 
 union(){
 difference(){
 // outer form
-cylinder(h=160,d1=95,d2=110,center=true);
+cylinder(h=160,d1=105,d2=160,center=true);
 // inner form
 translate([0,0,2.5])
-cylinder(h=160,d1=90,d2=105,center=true);
+cylinder(h=160,d1=95,d2=150,center=true);
 translate([0,0,40])
-cube([120,60,65],center=true);
+cube([165,60,60],center=true);
 
 translate([0,0,40])
-cube([60,120,65],center=true);
+cube([60,165,60],center=true);
 
 }
-// standing pegs x4
-translate([30,0,-78])
+// standing pegs x5
+translate([30,0,-77])
 #cylinder(4,6,5,center=true);
 
-translate([-30,0,-78])
+translate([-30,0,-77])
 cylinder(4,6,5,center=true);
 
-translate([0,30,-78])
+translate([0,30,-77])
 cylinder(4,6,5,center=true);
 
-translate([0,-30,-78])
+translate([0,-30,-77])
 cylinder(4,6,5,center=true);
 
-translate([0,0,-78])
+translate([0,0,-77])
 cylinder(4,6,5,center=true);
 }
